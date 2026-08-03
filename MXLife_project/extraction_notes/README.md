@@ -1,0 +1,1 @@
+Running list of anything confusing or ambiguous hit while extracting data - unit mismatches, unclear figures, ambiguous storage conditions, etc. This is an actual week 4 deliverable, not just scratch notes.

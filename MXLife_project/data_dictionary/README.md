@@ -1,0 +1,1 @@
+Column definitions and allowed values currently live in the `Allowed_Values` sheet inside `data/raw/MXLife_screening_and_extraction_templates.xlsx`. Gets exported here as a standalone file once the dictionary is frozen (week 5 target).
